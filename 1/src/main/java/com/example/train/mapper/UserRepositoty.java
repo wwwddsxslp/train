@@ -1,4 +1,4 @@
-package com.example.train;
+package com.example.train.mapper;
 
 
 import com.example.train.entity.User;
